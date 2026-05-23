@@ -1,0 +1,6 @@
+{
+  "name": "Quant Trading Backtester & Walk-Forward Optimizer",
+  "description": "An interactive, full-stack quantitative trading backtester and Walk-Forward Analysis workspace. Build, test, and validate trading strategies, optimize robustness scores above 75, prepare for quant developer interviews, and export complete runnable yfinance and Backtrader Python submisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
